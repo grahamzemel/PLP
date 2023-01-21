@@ -1,0 +1,15 @@
+{
+  "name": "programminglanguageprocessing",
+  "version": "1.0.0",
+  "description": "Programming Language Processing, as opposed to Natural Language Processing.",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Graham Zemel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "lang-detector": "^1.0.6"
+  }
+}
